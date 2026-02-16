@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "addcd3402208f181",
+    "type": "split",
+    "children": [
+      {
+        "id": "1756956b61aefc22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "935b234a6fd893bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Books/Staff Engineers Path/SEP - Chapter 1 - What Would You Say You Do Here.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SEP - Chapter 1 - What Would You Say You Do Here"
+            }
+          }
+        ]
+      },
+      {
+        "id": "9e6ef174b2315db5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b69fff3d05df1e1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d91ca7a8fbae19da",
+    "type": "split",
+    "children": [
+      {
+        "id": "a77875cee76d23f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "629442b151e52475",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "32444340a3d1944b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f5c5551a40416ee1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7adbbb284ab70b8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b31fd929c6f9117e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48a1b4c779dbe29f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "b2f5096aa0bc48bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "746f5341edf5091f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b8fbb481fa8073b6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "c740ba00a9acce8e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "935b234a6fd893bc",
+  "lastOpenFiles": [
+    "01 - Books/Staff Engineers Path/SEP - Chapter 9 - Whats Next.md",
+    "01 - Books/Staff Engineers Path/SEP - Chapter 8 - Good Influence at Scale.md",
+    "01 - Books/Staff Engineers Path/SEP - Chapter 7 - You Are a Role Model Now.md",
+    "01 - Books/Staff Engineers Path/SEP - Chapter 6 - Why Have We Stopped.md",
+    "01 - Books/Staff Engineers Path/SEP - Chapter 5 - Leading Big Projects.md",
+    "01 - Books/Staff Engineers Path/SEP - Chapter 4 - Finite Time.md",
+    "01 - Books/Staff Engineers Path/SEP - Chapter 3 - Creating The Big Picture.md",
+    "01 - Books/Staff Engineers Path/SEP - Chapter 2 - Three Maps.md",
+    "01 - Books/The Staff Engineers Path.md",
+    "01 - Books/Staff Engineers Path/SEP - Chapter 1 - What Would You Say You Do Here.md",
+    "01 - Books/Staff Engineers Path/Chapter Notes Index.md",
+    "01 - Books/Staff Engineers Path",
+    "01 - Books/Effective Java.md",
+    "01 - Books/Designing Data-Intensive Applications.md",
+    "01 - Books/Missing Books Priority.md",
+    "Learning Roadmap.md",
+    "01 - Books/Books Index.md",
+    "09 - Side Project/Side Project Overview.md",
+    "04 - AI & Agentic/What is MCP.md",
+    "09 - Side Project",
+    "Home.md",
+    "08 - Resources/Resources Index.md",
+    "08 - Resources",
+    "07 - Weekly Journal/Journal Index.md",
+    "07 - Weekly Journal",
+    "06 - Leadership/Leadership Index.md",
+    "06 - Leadership",
+    "05 - White Papers/White Papers Index.md",
+    "05 - White Papers",
+    "04 - AI & Agentic/AI Agentic Index.md",
+    "04 - AI & Agentic",
+    "03 - Java & Spring/Java Spring Index.md",
+    "03 - Java & Spring",
+    "02 - System Design/System Design Index.md",
+    "02 - System Design",
+    "01 - Books"
+  ]
+}
