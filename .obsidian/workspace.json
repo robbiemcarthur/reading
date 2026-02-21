@@ -202,6 +202,14 @@
   },
   "active": "935b234a6fd893bc",
   "lastOpenFiles": [
+    "10 - Technical Reference/TDJ - Operational Trade-Offs.md",
+    "10 - Technical Reference/TDJ - API Design Trade-Offs.md",
+    "10 - Technical Reference/TDJ - Testing Trade-Offs.md",
+    "10 - Technical Reference/TDJ - Data & Persistence Trade-Offs.md",
+    "10 - Technical Reference/TDJ - Architecture Trade-Offs.md",
+    "10 - Technical Reference/TDJ - Code Design Trade-Offs.md",
+    "10 - Technical Reference/Technical Decision Journal.md",
+    "10 - Technical Reference",
     "01 - Books/Staff Engineers Path/SEP - Chapter 9 - Whats Next.md",
     "01 - Books/Staff Engineers Path/SEP - Chapter 8 - Good Influence at Scale.md",
     "01 - Books/Staff Engineers Path/SEP - Chapter 7 - You Are a Role Model Now.md",
@@ -223,20 +231,12 @@
     "04 - AI & Agentic/What is MCP.md",
     "09 - Side Project",
     "Home.md",
-    "08 - Resources/Resources Index.md",
     "08 - Resources",
-    "07 - Weekly Journal/Journal Index.md",
     "07 - Weekly Journal",
-    "06 - Leadership/Leadership Index.md",
     "06 - Leadership",
-    "05 - White Papers/White Papers Index.md",
     "05 - White Papers",
-    "04 - AI & Agentic/AI Agentic Index.md",
     "04 - AI & Agentic",
-    "03 - Java & Spring/Java Spring Index.md",
     "03 - Java & Spring",
-    "02 - System Design/System Design Index.md",
-    "02 - System Design",
-    "01 - Books"
+    "02 - System Design"
   ]
 }

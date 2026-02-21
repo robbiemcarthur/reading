@@ -29,3 +29,8 @@ Use these consistently:
 ---
 
 **Note:** The vault also includes **09 - Side Project/** — The evolving Data Insights Platform that grows with each phase. See [[Side Project Overview]].
+
+
+---
+
+**Note:** The vault also includes **10 - Technical Reference/** — Your technical decision journal and trade-off reference. See [[Technical Decision Journal]].
