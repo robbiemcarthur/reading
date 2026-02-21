@@ -75,6 +75,36 @@ The three pillars of the IC track are: big picture thinking, project execution a
 *You communicate often and well*
 
 - Almost everything you do will be conveying information from your brain to other people's brain and vice versa. The better you are at being understood, the better you'll be at your job. 
+
+
+***Understanding your role*** - reporting, scope, shape, primary focus
+
+*Reporting*
+1. **Reporting high**
+- If you report high in the org chain, you'll get high level and impactful info and you'll get valuable experiences learning from your manager
+
+2. **Reporting low**
+- May need skip level meetings to stay connected to organisations goals, since info you get is more filtered and individual problem specific rather than organisational 
+
+*Scope*
+
+*What's your scope?*
+
+- Your reporting chain will likely affect your scope: the domain, team and teams you'll pay close attention to and be responsible for. 
+- You should have influence on short and long term goals and be aware of the major decisions being made.
+- You should have opinions about changes and represent people who don't have leverage to prevent poor tech decisions that affect them. 
+- Should be thinking about how to cultivate and grow people and look for opportunities for them. 
+- Get very clear on what your scope is from day one. 
+
+*Shape*
+
+Breadth or depth first? 
+- Do you prefer to narrow focus and spend time on a single area, or take a broader view? 
+
+*What's your primary focus?*
+
+- Be deliberate and thoughtful about what you're going to work on by understanding what is important work and what projects need you. 
+
 ## Key Quotes & Ideas
 *Capture anything that resonates*
 
@@ -94,6 +124,12 @@ Manager vs SE responsibilities
 *How does this map to your tech lead role?*
 
 - Seeing the big picture will be very important as I step into tech lead role as I'll need to see outside the local maxima to understand how decisions I take within my team will affect others, and how aligned that'll be with the organisation as a whole. Ultimately my job is to make good technical decisions for SAS, not for my local team. I'll need to be able to step back to see the full picture. 
+
+1. Understand my scope, shape (do I prefer narrow, or broad approach? How much do I want to code? ) and primary focus from day one - write down my understanding of my role and share with Holly. 
+2. Figure out my reporting chain, do I need skip level 1:1s? 
+3. Track my technical and architectural decisions 
+4. Think about and log how I plan to build junior / mid engineers and what opportunities I can look out for, for them. 
+5. Set up coding / architectural standards. 
 
 ## Questions / Things to Explore Further
 
